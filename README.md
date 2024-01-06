@@ -25,4 +25,4 @@ HTML , CSS , JavaScript, React , Angular, Node JS , Express , MongoDB , MYSql , 
 
 ### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DashingSuhail%20&theme=radical)](https://git.io/streak-stats)
-https://github.com/DashingSuhail/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DashingSuhail&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
