@@ -21,3 +21,6 @@ HTML , CSS , JavaScript, React , Angular, Node JS , Express , MongoDB , MYSql , 
 
 ⚡️ Fun fact I play Cricket 🏏! ...
 
+---
+
+### :fire: My Stats :
